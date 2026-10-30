@@ -1,0 +1,6 @@
+{
+  "name": "Forever & Always - Birthday Celebration",
+  "description": "An interactive, heartfelt birthday celebration website for your special someone, featuring an interactive birthday cake with candle blowing, polaroid memory timeline, love letters, reasons jar, scratch-off vouchers, love quiz, and customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
